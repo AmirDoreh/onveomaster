@@ -1,0 +1,12 @@
+{
+  "name": "onveo",
+  "displayName": "onveo",
+  "expo": {
+    "name": "onveo",
+    "slug": "onveo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
